@@ -26,6 +26,14 @@ Week of 5th April: (Compulsory) Chapter 1, Chapter 2 (You can skip the mathy par
 
 Week of 12th April: Chapter 4, Chapter 5 (5.1, 5.3): More of Chapter 5 if you want.  
 
+Week of 5th May: Get Started with Qiskit Learn.
+
+Week of 12th May: Q#. 
+
+Assignment 1: [Q# Summer 2020] (https://codeforces.com/contest/1357) A1 to C2.
+Deadline: Early June.
+This will be used for evaluation.
+
 
 
 
