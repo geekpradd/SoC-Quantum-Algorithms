@@ -19,4 +19,13 @@ You can find them here:
 These notebooks by MnP Club are very nice:
 [MnP Tutorial](https://github.com/mnp-club/Quantum_Computing_Workshop_2020)
 
+## Deadlines
+
+Week of 5th April: (Compulsory) Chapter 1, Chapter 2 (You can skip the mathy parts)
+(Extra): Chapter 4, Chapter 5 (5.1 for now, more if you want to do)
+
+Week of 12th April: Chapter 4, Chapter 5 (5.1, 5.3): More of Chapter 5 if you want.  
+
+
+
 
