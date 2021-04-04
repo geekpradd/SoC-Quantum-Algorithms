@@ -30,7 +30,7 @@ Week of 5th May: Get Started with Qiskit Learn.
 
 Week of 12th May: Q#. 
 
-Assignment 1: [Q# Summer 2020] (https://codeforces.com/contest/1357) A1 to C2.
+Assignment 1: [Q# Summer 2020](https://codeforces.com/contest/1357) A1 to C2.
 Deadline: Early June.
 This will be used for evaluation.
 
