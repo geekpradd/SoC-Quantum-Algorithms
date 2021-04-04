@@ -31,9 +31,13 @@ Week of 5th May: Get Started with Qiskit Learn.
 Week of 12th May: Q#. 
 
 Assignment 1: [Q# Summer 2020](https://codeforces.com/contest/1357) A1 to C2.
-Deadline: Early June.
+Deadline: Early to Late June.
 This will be used for evaluation.
 
+Week of 19th May + 26th May: Get started with coding the algorithms in qiskit/q#. And link the GUI using qiskit: Tkinter/PyQt or for Q#: C# and DotNet.
+Flexible: Can be pushed to break.
+
+Break: QML and maybe we can read some papers on QML. 
 
 
 
