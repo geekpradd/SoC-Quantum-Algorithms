@@ -5,6 +5,7 @@
 Theory:
 [SoS Report: Pradipta](https://github.com/geekpradd/Quantum-Computing-SoS)
 
+[SoS Report: Harshit](https://github.com/HARSHIT-GUPTA-coder/quantum-computing)
 
 
 Programming:
