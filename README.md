@@ -3,9 +3,7 @@
 ### Important Links/Resources:
 
 Theory:
-[SoS Report: Pradipta](https://github.com/geekpradd/Quantum-Computing-SoS)
-
-[SoS Report: Harshit](https://github.com/HARSHIT-GUPTA-coder/quantum-computing)
+SoS Report: [Pradipta](https://github.com/geekpradd/Quantum-Computing-SoS)   ,   [Harshit](https://github.com/HARSHIT-GUPTA-coder/quantum-computing)
 
 
 Programming:
